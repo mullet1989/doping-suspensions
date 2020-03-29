@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/doping-suspensions/precache-manifest.d65418b0f43fc36da46657390c152b3c.js"
+  "/doping-suspensions/precache-manifest.722088a2a6ddc5d97574775fe40fd552.js"
 );
 
 self.addEventListener('message', (event) => {
