@@ -15,7 +15,7 @@ function App() {
 
     const get = async () => {
       try {
-        const resp = await fetch("/banned-athletes.csv");
+        const resp = await fetch("/doping-suspensions/banned-athletes.csv");
         const bannedAthletes = await resp.text();
         const json = await csv.fromString(bannedAthletes);
         setViolations(json);
