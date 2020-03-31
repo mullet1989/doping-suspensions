@@ -21,7 +21,7 @@ function App() {
 
       try {
         setIsLoading(true);
-        const url = `/doping-suspensions/banned-athletes.csv?${randomStringç}`;
+        const url = `/doping-suspensions/banned-athletes.csv?${randomString}`;
         const resp = await fetch(url);
         const bannedAthletes = await resp.text();
         const json = await csv.fromString(bannedAthletes);
