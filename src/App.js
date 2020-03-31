@@ -16,9 +16,13 @@ function App() {
   useEffect(() => {
 
     const get = async () => {
+      //http://stackoverflow.com/questions/105034/how-to-create-a-guid-uuid-in-javascript
+      const randomString = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
+
       try {
         setIsLoading(true);
-        const resp = await fetch("/doping-suspensions/banned-athletes.csv");
+        const url = `/doping-suspensions/banned-athletes.csv?${randomStringç}`;
+        const resp = await fetch(url);
         const bannedAthletes = await resp.text();
         const json = await csv.fromString(bannedAthletes);
         violations.push(...json);
