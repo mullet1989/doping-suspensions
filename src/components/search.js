@@ -1,7 +1,13 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import Fuse from "fuse.js";
+import moment from "moment";
+import Toggle from "./active-toggle";
+import { violations } from "../App";
 
-const Search = ({ violations, setViolations }) => {
+const Search = ({ setViolations }) => {
+
+  let [query, setQuery] = useState("");
+  let [active, setActive] = useState(false);
 
   let options = {
     shouldSort: true,
@@ -11,29 +17,52 @@ const Search = ({ violations, setViolations }) => {
     minMatchCharLength: 1,
     keys: [
       "Name"
-      // "Country",
-      // "Event",
-      // "Date of violation",
-      // "Banned substance(s)/",
-      // "Sanctions"
     ]
   };
 
-  const parseQuery = query => {
+  useEffect(() => {
+    performSearch(violations, query)
+      .then(violations => onActiveToggle(violations, active))
+      .then(violations => setViolations(violations));
+  }, [query, active]);
 
-    let fuse = new Fuse(violations, options); // "list" is the item array
-    let result = fuse.search(query);
-    setViolations(result.map(x => x.item));
+  const performSearch = (violations, query) => {
+    return new Promise(resolve => {
+      if (query === "") {
+        return resolve(violations);
+      }
+
+      let fuse = new Fuse(violations, options); // "list" is the item array
+      let result = fuse.search(query);
+      resolve(result.map(x => x.item));
+    });
+  };
+
+  const onActiveToggle = (violations, active) => {
+    return new Promise(resolve => {
+      if (active) {
+        const today = moment();
+        const activeSuspensions = violations.filter(x => {
+          const until = moment(x["Ineligibility until"], "DD/MM/YYYY");
+          return until.isAfter(today);
+        });
+        return resolve(activeSuspensions);
+      }
+      resolve(violations);
+    });
   };
 
 
   return (
-    <>
-      <h1>
-        Search for violations
-      </h1>
-      <input type="text" onKeyUp={event => parseQuery(event.target.value)}/>
-    </>
+    <form>
+      <fieldset>
+        <h1>
+          Search for violations
+        </h1>
+        <input style={{ fontSize: "1.5rem" }} type="text" id="search" onKeyUp={event => setQuery(event.target.value)}/>
+        <Toggle onCheck={e => setActive(!active)}/>
+      </fieldset>
+    </form>
   );
 };
 

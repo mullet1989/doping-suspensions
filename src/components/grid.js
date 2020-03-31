@@ -4,18 +4,22 @@ import React from "react";
 import Violation from "./violation";
 
 
-const Grid = ({ violations }) => {
+const Grid = ({ violations, loading }) => {
+
+  if (loading) {
+    return <span>Loading ...</span>
+  }
 
   return violations.length > 0
     ? (<table style={{ tableLayout: "fixed" }}>
       <thead>
       <tr>
         <th>Name</th>
-        <th>Country</th>
-        <th>Event</th>
-        <th>Date of violation</th>
-        <th>Banned substance(s)/</th>
-        <th>Sanctions</th>
+        <th>Date of Birth</th>
+        <th>Nationality</th>
+        <th>Sanction</th>
+        <th>Ineligibility until</th>
+        <th>Description</th>
       </tr>
       </thead>
       <tbody>
@@ -26,7 +30,7 @@ const Grid = ({ violations }) => {
       )}
       </tbody>
     </table>)
-    : <span> Loading ... </span>;
+    : <span> No results </span>;
 };
 
 export default Grid;

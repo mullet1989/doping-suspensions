@@ -4,11 +4,11 @@ const Violation = ({ athlete }) => {
   return (
     <>
       <td>{athlete["Name"]}</td>
-      <td>{athlete["Country"]}</td>
-      <td>{athlete["Event"]}</td>
-      <td>{athlete["Date of violation"]}</td>
-      <td>{athlete["Banned substance(s)/"]}</td>
+      <td>{athlete["Date of Birth"]}</td>
+      <td>{athlete["Nationality"]}</td>
       <td>{athlete["Sanction"]}</td>
+      <td>{athlete["Ineligibility until"]}</td>
+      <td>{athlete["Description"]}</td>
     </>
   );
 };
