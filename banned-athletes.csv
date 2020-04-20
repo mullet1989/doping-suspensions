@@ -1,7 +1,7 @@
 Name,Date of Birth,Nationality,Role,Sex,Discipline 1,Discipline 2,Date of Infraction,Sanction,Ineligibility until,Period of Disqualification of results,Lifetime Ban?,Infraction Type,ADRV Rules,ADRV Notes,Description
  Maria ABAKUMOVA,15/01/1986,RUS,athlete,F,Javelin,Throws,21/08/2008,4 years ineligibility,17/05/2020,"From 21.08.08 to
 20.08.12",No,Doping,"Presence,Use",Dehydrochloromethyltestos terone,"In competition test, XXIX Olympic games, Beijing, CHN"
- Ali ABDOSH,25/08/1987,ETH,athlete,M,Long Distance (3000m+),,24/12/2017,4 years ineligibility,04/02/2022,Since 24-12-2017,No,Doping,"Presence,Use",Salbutamol,"In competition test, 2017 Baoneng Guangzhou Huangpu Marathon , Guangzhou, CHN"
+ Ali ABDOSH,25/08/1987,ETH,athlete,M,,Long Distance (3000m+),24/12/2017,4 years ineligibility,04/02/2022,Since 24-12-2017,No,Doping,"Presence,Use",Salbutamol,"In competition test, 2017 Baoneng Guangzhou Huangpu Marathon , Guangzhou, CHN"
  Mounir ACHERKI,09/02/1981,FRA,athlete,M,1500m,Middle Distance (800m-1500m),01/01/2014,4 years ineligibility,15/04/2021,Since 01-01-2014,No,Doping,"Use,Possessio n","Use or Attempted Use by an Athlete of a Prohibited Substance or a Prohibited Method, Possession of a","IAAF Rule 32.2(b) Use of a prohibited substance
 IAAF Rule 32.2(f) Possession of a prohibited substance"
  Mariya ADAMCHUK,29/05/2000,UKR,athlete,F,Long Jump,Jumps,03/06/2018,4 years ineligibility,16/08/2022,Since 03.06.18,No,Doping,"Presence,Use","Trenbolone, DMBA & Methylhexaneamine","ICT, Ukrainian club U20 Championships', Lutsk, UKR"
@@ -9,13 +9,13 @@ IAAF Rule 32.2(f) Possession of a prohibited substance"
 Hurdles",Sprints (400m or less),24/08/2018,4 years ineligibility,25/11/2022,Since 24.08.18,No,Doping,"Presence,Use",Stanozolol,"Out-of-competition test, Jakarta, IDN"
  Tosin ADELOYE,07/02/1996,NGR,athlete,F,400m,Sprints (400m or less),24/07/2015,"8 years ineligibility (2nd
 ADRV)",23/07/2023,Since 24-07-2015,No,Doping,"Presence,Use",Exogenous Steroids,"In competition test,  Warri Relays - CAA Super Grand Prix , Warri, NGR"
- Roland ADOK,29/10/1984,HUN,athlete,M,Long Distance (3000m+),,01/05/2019,2 years ineligibility,22/05/2021,Since 01.05.19,No,Doping,"Presence,Use",Clenbuterol,"ICT, Hungary 50km ultra running Championships 2019, Budakalasz,
+ Roland ADOK,29/10/1984,HUN,athlete,M,,Long Distance (3000m+),01/05/2019,2 years ineligibility,22/05/2021,Since 01.05.19,No,Doping,"Presence,Use",Clenbuterol,"ICT, Hungary 50km ultra running Championships 2019, Budakalasz,
 HUN"
  Gulfiya AGAFONOVA KHANAFEYEVA,,RUS,athlete,F,Hammer,Throws,,8 years ineligibility,05/01/2025,"From 15.07.12 -
 06.08.14",No,Doping,"Presence,Use",Dehydrochlormethyltestost erone; Use,"(Retesting) In competition test, XXX Olympic Games, London, GBR;
 McLaren evidence"
- Belal AHMED,20/11/1986,EGY,athlete,M,Long Distance (3000m+),,27/09/2019,4 years ineligibility,03/12/2023,Since 27.09.19,No,Doping,"Presence,Use",EPO,"Out-of-competition test, Berlin, GER"
- Mehmet AKKOYUN,28/02/1989,TUR,athlete,M,Long Distance (3000m+),,11/08/2014,4 years ineligibility,07/02/2021,Since 11-08-2014,No,Doping,Use,Athlete Biological Passport,Athlete Biological Passport Case
+ Belal AHMED,20/11/1986,EGY,athlete,M,,Long Distance (3000m+),27/09/2019,4 years ineligibility,03/12/2023,Since 27.09.19,No,Doping,"Presence,Use",EPO,"Out-of-competition test, Berlin, GER"
+ Mehmet AKKOYUN,28/02/1989,TUR,athlete,M,,Long Distance (3000m+),11/08/2014,4 years ineligibility,07/02/2021,Since 11-08-2014,No,Doping,Use,Athlete Biological Passport,Athlete Biological Passport Case
  Karar A.M. AL ABBODY,08/08/1986,IRQ,athlete,M,400m,Sprints (400m or less),10/10/2015,4 years ineligibility,14/02/2020,Since 10-10-2015,No,Doping,"Presence,Use",Metandienone,"Out of competition test, IRQ"
  Saad Musleh Al BISHI,02/05/1986,KSA,athlete,M,Shot Put,Throws,06/02/2016,4 years ineligibility,02/03/2020,Since 05-02-2016,No,Doping,"Presence,Use",Amphetamine,"In competition test,  Federation Cup
 , Jeddah, RSA"
@@ -395,7 +395,7 @@ Bhubaneswar, IND and 57th National Inter State Sr Athletics Championships , Gunt
  Sammy (Kirop) KITWARA,26/11/1986,KEN,athlete,M,,Long Distance (3000m+),17/03/2019,16 months ineligibility,16/07/2020,Since 17.03.19,No,Doping,"Presence,Use",Terbutaline,"In competition test, Seoul Marathon 2019, Seoul, KOR"
  Larisa KLEYMENOVA,06/08/1981,RUS,athlete,F,,Middle Distance (800m-1500m),09/09/2015,4 years ineligibility with 4 years ineligibility added of the original period,16/09/2023,From 09.09.15,No,Doping,"Presence,Use, Violation of the Prohibition of Participation During Ineligibility",Trimetazidine and Participation during ineligibility,"In competition test, Russian Relays Championships , Adler, RUS"
  Nina KLYUZHEVA,23/11/1997,RUS,athlete,F,Pole Vault,Jumps,10/08/2019,2 years ineligibility,26/08/2021,Since 10.08.20,No,Doping,"Presence,Use",Furosemide,"In competition test, All-Russian competition Memorial of the Irkutsk athletes, Irkutsk, RUS"
- YounâˆšÂ©s KNIYA,15/08/1995,MAR,athlete,M,,Long Distance (3000m+),09/07/2017,4 years ineligibility,17/09/2021,Since 09.07.17,No,Doping,"Presence,Use",GW1516,"In competition test, 6‚àö¬Æme Meeting F‚àö¬©d‚àö¬©ral , Ben Slimane, MAR"
+ Youn√¢ÀÜ≈°√Ç¬©s KNIYA,15/08/1995,MAR,athlete,M,,Long Distance (3000m+),09/07/2017,4 years ineligibility,17/09/2021,Since 09.07.17,No,Doping,"Presence,Use",GW1516,"In competition test, 6‚àö¬Æme Meeting F‚àö¬©d‚àö¬©ral , Ben Slimane, MAR"
  Andre KOEKEMOER,31/12/1993,RUS,athlete,M,,Long Distance (3000m+),23/07/2013,8 years ineligibility,22/07/2021,Since 23.07.13,No,Doping,"Presence,Use",Testosterone,"Out-of-competition test, RSA"
  Rahime KOLAY,06/05/1978,TUR,athlete,M,,Middle Distance (800m-1500m),22/05/2016,4 years ineligibility,28/06/2020,Since 22.05.16,No,Doping,"Presence,Use","Ephedrine, Metenolone","In competition test, Erzurum Half Marrathon , Erzurum, TUR"
  German KOMAROV,,RUS,athlete,M,,,,8 years ineligibility,24/06/2027,Since 09.11.17,No,Doping,Evasion,-,"OOC, Sochi RUS"
@@ -755,24 +755,7 @@ IAAF Rule 32.2(f) Possession of a prohibited substance"
  Yingying ZHANG,04/01/1990,CHN,athlete,F,,Long Distance (3000m+),16/04/2017,4 years ineligibility,04/05/2021,From 16.04.17,No,Doping,"Presence,Use",Furosemide,"Out competition, in GUIZHOU, CHN"
  Nenad ZIVKOVIC,03/02/1987,SRB,athlete,M,,Long Distance (3000m+),17/11/2019,2 years ineligibility,12/12/2021,Since 17.11.19,No,Doping,"Presence,Use","Methylhexaneamine, Tuaminoheptane","In competition test, Balkan Marathon Championships, Belgrade, SRB"
  Oleksandr ZOBENKO,01/03/1996,UKR,athlete,M,,Sprints (400m or less),07/07/2018,4 years ineligibility,22/10/2022,Since 07-07-18,No,Doping,"Presence,Use","Metandienone, Dehydrochloromethyltestos terone","Out of competition, Baghdad, IRQ"
-Nunu Abashidze,,Soviet Union,,,Shot put,,1981,?,,,,,?,,
-Haidar ABDUL SHAHID (NASERA),13/07/1981,IRQ,athlete,M,Throws,,08/03/2019,4 years ineligibility,05/05/2023,Since 08.03.19,No,Doping,"Presence,Use",Metandienone,"In competition test, Iraqi Championships, Baghdad, IRQ"
-Mariya ADAMCHUK,29/05/2000,UKR,athlete,F,Long Jump,,03/06/2018,4 years ineligibility,16/08/2022,Since 03.06.18,No,Doping,"Presence,Use","Trenbolone, DMBA & Methylhexaneamine","ICT, Ukrainian club U20 Championships', Lutsk, UKR"
-Muh. Syazrul ADLI SAIFUL,17/02/2001,MAS,athlete,M,Sprints (400m or less),,18/08/2019,4 years ineligibility,12/12/2023,Since 18.08.19,No,Doping,"Presence,Use",Methasterone & Oxymetholone,"In competition test, 96th Malaysian Athletics Championship 2019, Kuala Lumpur, MAS"
-Zenia ALMSHDINY HAMID,11/04/1988,IRQ,athlete,F,Combined events,,07/03/2019,8 years ineligibility,29/07/2027,Since 07.03.19,No,Doping,"Evasion, Refusal and or Failure to Submit",Refusal,"In competition test, Iraqi Championships, Baghdad, IRQ"
-BAKER Sarkan,30/01/1983,IRQ,athlete,M,Long Distance (3000m+),,25/05/2018,4 years ineligibility,11/12/2022,Since 25-05-18,No,Doping,"Presence,Use",Meldonium,"Out of competition, Baghdad, IRQ"
-Amit DAHIYA,24/11/1998,IND,athlete,M,Javelin,,16/04/2019,4 years ineligibility,15/07/2023,Since 16.04.19,No,Doping,"Evasion, Refusal and or Failure to Submit",Refusal,"In competition test, 2nd National javelin throw open championship 2019, Sonipat, IND"
-Alessio GUIDI,27/03/1975,ITA,athlete,M,,,01/11/2018,2 years ineligibility,23/06/2021,NA,No,Doping,Complicity,Complicity,Art. 2.9 ADR - Complicity
-Aleksandr IVANOV,25/04/1993,RUS,athlete,M,Race Walk,,09/07/2012,2 years ineligibility,01/05/2019,"From 09.07.12 to
-17.08.14",No,Doping,Use,Athlete Biological Passport,Athlete Biological Passport Case
-Melissa JANSEN VAN VUUREN,18/07/1995,RSA,athlete,F,Long Distance (3000m+),,07/04/2019,3 years and 9 months ineligibility,26/02/2023,Since 07.04.19,No,Doping,"Presence,Use",Phentermine,"In competition test, JointEze Irene Ultra Marathon 2019, Centurion, RSA"
-Abderrahmane KACHIR,25/09/1992,MAR,athlete,M,Long Distance (3000m+),,25/05/2019,4 years ineligibility,24/06/2023,Since 25.05.19,No,Doping,"Presence,Use",Ibutamoren,"In competition test, Ottawa 10K, Ottawa, CAN"
-Mathew Kipchirchir KOSGEI,03/08/1986,KEN,athlete,M,Long Distance (3000m+),,25/12/2016,4 years ineligibility,14/09/2021,Since 25.12.16,No,Doping,"Presence,Use",EPO,"In competition test, Fuzhou Marathon, Fuzhou, CHN"
-Oleg KRAMAR,23/12/1964,UKR,athlete,M,Jumps,,02/04/2016,4 years ineligibility,01/04/2020,From 02.04.16,No,Doping,"Presence,Use",Stanozolol,"In competition, in     Indoor Championships 2016 Ancona, ITA"
-Fang LIU,16/08/2000,CHN,athlete,F,Middle Distance (800m-1500m),,24/07/2019,6 months ineligibility,23/01/2020,Since 24.07.19,No,Doping,"Presence,Use",Bambuterol,"Out of competition test, Nanjing, CHN"
-Beth MUTHONI (KARANJA),04/07/1990,KEN,athlete,F,Long Distance (3000m+),,10/06/2018,6 months ineligibility,22/06/2019,Since 10.06.18,No,Doping,"Presence,Use",Triamcinolone Acetonide,"In competition test, Marathon de la Liberte, Caen, FRA"
-Yu ZHOU,26/08/1999,CHN,athlete,F,Sprints (400m or less),,24/05/2019,4 years ineligibility,03/09/2023,Since 24.05.19,No,Doping,"Presence,Use",Exogenous Steroids after IRMS (5aAdiol & 5bAdiol),"In competition test, National Athletic Grand Prix 2019, Jinhua, CHN"
-Sebastian Varga,,Romania,Athlete,M,,,03/06/2009,8 years ineligibility (2nd ADRV),02/09/2017,,,,Metabolites of metandienone,,
+ Sebastian Varga,,Romania,Athlete,M,,,03/06/2009,8 years ineligibility (2nd ADRV),02/09/2017,,,,Metabolites of metandienone,,
 Pekka VIIPPO,,FIN,Athlete,M,,,04/09/2011,8 years ineligibility (2nd ADRV),10 11 2019,,,,AAF – Hydrochlorothiazide,,
 P.B. GIRI,,IND,Athlete,M,,,25/01/2010,8 years ineligibility (2nd offence),20 07 2018,,,,AAF – Stanozolol,,
 Seema JHAKAR,,ING,Athlete,F,,,19/11/2009,"8 years ineligibility (2nd
@@ -809,6 +792,22 @@ Lars Arvid Nilsen,15-Apr-65,Norway,Athlete,M,Shot put,,1992,Life ban,,,,,Metenol
 Cheryl Thibedeau,not known,Canada,Athlete,F,Sprinting,,1992,Life ban,,,,,,,
 Remigius Machura (born 1960),03-Jul-60,Czechoslovakia,Athlete,M,Shot put,,1985,2 years(Reduced from life ban),,,,,Stanozolol,,
 Zdenka Silhava,15-Jun-54,Czechoslovakia,Athlete,F,Discus throw,,1985,18 months(Reduced from life ban),,,,,Anabolic Steroids,,
+Haidar ABDUL SHAHID (NASERA),13/07/1981,IRQ,athlete,M,Throws,,08/03/2019,4 years ineligibility,05/05/2023,Since 08.03.19,No,Doping,"Presence,Use",Metandienone,"In competition test, Iraqi Championships, Baghdad, IRQ"
+Mariya ADAMCHUK,29/05/2000,UKR,athlete,F,Long Jump,,03/06/2018,4 years ineligibility,16/08/2022,Since 03.06.18,No,Doping,"Presence,Use","Trenbolone, DMBA & Methylhexaneamine","ICT, Ukrainian club U20 Championships', Lutsk, UKR"
+Muh. Syazrul ADLI SAIFUL,17/02/2001,MAS,athlete,M,Sprints (400m or less),,18/08/2019,4 years ineligibility,12/12/2023,Since 18.08.19,No,Doping,"Presence,Use",Methasterone & Oxymetholone,"In competition test, 96th Malaysian Athletics Championship 2019, Kuala Lumpur, MAS"
+Zenia ALMSHDINY HAMID,11/04/1988,IRQ,athlete,F,Combined events,,07/03/2019,8 years ineligibility,29/07/2027,Since 07.03.19,No,Doping,"Evasion, Refusal and or Failure to Submit",Refusal,"In competition test, Iraqi Championships, Baghdad, IRQ"
+BAKER Sarkan,30/01/1983,IRQ,athlete,M,Long Distance (3000m+),,25/05/2018,4 years ineligibility,11/12/2022,Since 25-05-18,No,Doping,"Presence,Use",Meldonium,"Out of competition, Baghdad, IRQ"
+Amit DAHIYA,24/11/1998,IND,athlete,M,Javelin,,16/04/2019,4 years ineligibility,15/07/2023,Since 16.04.19,No,Doping,"Evasion, Refusal and or Failure to Submit",Refusal,"In competition test, 2nd National javelin throw open championship 2019, Sonipat, IND"
+Alessio GUIDI,27/03/1975,ITA,athlete,M,,,01/11/2018,2 years ineligibility,23/06/2021,NA,No,Doping,Complicity,Complicity,Art. 2.9 ADR - Complicity
+Aleksandr IVANOV,25/04/1993,RUS,athlete,M,Race Walk,,09/07/2012,2 years ineligibility,01/05/2019,"From 09.07.12 to
+17.08.14",No,Doping,Use,Athlete Biological Passport,Athlete Biological Passport Case
+Melissa JANSEN VAN VUUREN,18/07/1995,RSA,athlete,F,Long Distance (3000m+),,07/04/2019,3 years and 9 months ineligibility,26/02/2023,Since 07.04.19,No,Doping,"Presence,Use",Phentermine,"In competition test, JointEze Irene Ultra Marathon 2019, Centurion, RSA"
+Abderrahmane KACHIR,25/09/1992,MAR,athlete,M,Long Distance (3000m+),,25/05/2019,4 years ineligibility,24/06/2023,Since 25.05.19,No,Doping,"Presence,Use",Ibutamoren,"In competition test, Ottawa 10K, Ottawa, CAN"
+Mathew Kipchirchir KOSGEI,03/08/1986,KEN,athlete,M,Long Distance (3000m+),,25/12/2016,4 years ineligibility,14/09/2021,Since 25.12.16,No,Doping,"Presence,Use",EPO,"In competition test, Fuzhou Marathon, Fuzhou, CHN"
+Oleg KRAMAR,23/12/1964,UKR,athlete,M,Jumps,,02/04/2016,4 years ineligibility,01/04/2020,From 02.04.16,No,Doping,"Presence,Use",Stanozolol,"In competition, in     Indoor Championships 2016 Ancona, ITA"
+Fang LIU,16/08/2000,CHN,athlete,F,Middle Distance (800m-1500m),,24/07/2019,6 months ineligibility,23/01/2020,Since 24.07.19,No,Doping,"Presence,Use",Bambuterol,"Out of competition test, Nanjing, CHN"
+Beth MUTHONI (KARANJA),04/07/1990,KEN,athlete,F,Long Distance (3000m+),,10/06/2018,6 months ineligibility,22/06/2019,Since 10.06.18,No,Doping,"Presence,Use",Triamcinolone Acetonide,"In competition test, Marathon de la Liberte, Caen, FRA"
+Yu ZHOU,26/08/1999,CHN,athlete,F,Sprints (400m or less),,24/05/2019,4 years ineligibility,03/09/2023,Since 24.05.19,No,Doping,"Presence,Use",Exogenous Steroids after IRMS (5aAdiol & 5bAdiol),"In competition test, National Athletic Grand Prix 2019, Jinhua, CHN"
 Felix Kiptoo Kirwa,08-Oct-95,Kenya,Athlete,M,Long Distance,,09/12/2018,9 month ban,13/11/2019,09/12/2018,No,Doping,strychnine,,
 Peter Kwemoi Ndorobo,11-Aug-93,Kenya,Athlete,M,Long Distance,,03/11/2019,4 year ban,16/12/2023,03/11/2019,No,Doping,EPO,,
 Vincent Kipsegechi Yator,11-Jul-89,Kenya,Athlete,M,Long Distance,,01/10/2019,4 year ban,26/03/2024,10/04/2019,No,Doping,Prednisone,,
