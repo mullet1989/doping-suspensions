@@ -41,7 +41,12 @@ function App() {
 
   return (
     <div className="App">
-      <div className="container">
+      <div className="container" style={{ marginTop: "20px" }}>
+        <div className="row">
+          <div className="column">
+            <img src="/logo-large.png" />
+          </div>
+        </div>
         <div className="row">
           <div className="column">
             <Search setViolations={setResult}/>
