@@ -52,14 +52,25 @@ const Search = ({ setViolations }) => {
     });
   };
 
-
   return (
     <form>
       <fieldset>
         <h1>
           Search for violations
         </h1>
-        <input style={{ fontSize: "1.5rem" }} type="text" id="search" onKeyUp={event => setQuery(event.target.value)}/>
+        <div style={{
+          padding: "10px",
+          marginBottom: "2rem",
+          borderLeft: ".3rem solid #49d79f",
+          backgroundColor: "#f4f5f6"
+        }}>
+          <span>Type the first name of the athlete you want to check</span>
+        </div>
+        <input style={{ fontSize: "1.5rem" }} type="text" id="search"
+               onKeyPress={(e) => {
+                 e.key === "Enter" && e.preventDefault();
+               }}
+               onChange={event => setQuery(event.target.value)}/>
         <Toggle onCheck={e => setActive(!active)}/>
       </fieldset>
     </form>
