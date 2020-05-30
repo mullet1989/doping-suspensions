@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import Fuse from "fuse.js";
 import moment from "moment";
 import Toggle from "./active-toggle";
-import { violations } from "../App";
+import { violations } from "../routes/Main";
 
 const Search = ({ setViolations }) => {
 
@@ -16,8 +16,8 @@ const Search = ({ setViolations }) => {
     distance: 100,
     minMatchCharLength: 1,
     keys: [
-      "Name"
-    ]
+      "Name",
+    ],
   };
 
   useEffect(() => {
@@ -62,7 +62,7 @@ const Search = ({ setViolations }) => {
           padding: "10px",
           marginBottom: "2rem",
           borderLeft: ".3rem solid #49d79f",
-          backgroundColor: "#f4f5f6"
+          backgroundColor: "#f4f5f6",
         }}>
           <span>Type the first name of the athlete you want to check</span>
         </div>
@@ -70,8 +70,8 @@ const Search = ({ setViolations }) => {
                onKeyPress={(e) => {
                  e.key === "Enter" && e.preventDefault();
                }}
-               onChange={event => setQuery(event.target.value)}/>
-        <Toggle onCheck={e => setActive(!active)}/>
+               onChange={event => setQuery(event.target.value)} />
+        <Toggle onCheck={e => setActive(!active)} />
       </fieldset>
     </form>
   );
