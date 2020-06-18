@@ -29,7 +29,7 @@ Name,Date of Birth,Nationality,Role,Sex,Discipline 1,Discipline 2,Date of Infrac
  Luis Paolo ANTUNES,28/11/1980,BRA,athlete,M,Race Walk,"Long Distance (3000m+)",27/09/2015,"8 years ineligibility",26/09/2023,Since 27.09.15,No,Doping,"Presence,Use",Stanozolol,"In competition test,  Maraton Internacional SESCPR , Foz do"
  Reneilwe APHANE,24/08/1990,RSA,athlete,M,Triple Jump,Jumps,31/01/2018,"3 years and 6 months",27/08/2021,Since 31.01.18,No,Doping,"Presence,Use","Dehydrochloromethyltestos terone, Clomiphene,","Out-of-competition test, Soshanguve, RSA"
  Karthik ARUMUGAM,02/06/1992,IND,athlete,M,Long Jump,Jumps,30/12/2017,"2 years ineligibility",03/04/2020,Since 30.12.17,No,Doping,"Presence,Use",Methylhexaneamine,"In competition test,   66th All India Police Athletics Championship,"
- Ali ARZHANGNEZHAD,07/01/1999,IRI,athlete,M,,"Sprints (400m or less)",11/01/2018,"4 years ineligibility",12/03/2022,Since 11-01-2018,No,Doping,"Presence,Use",Stanozolol,"In competition test,  National indoor athletics championships, Tehran, IRN"  
+ Ali ARZHANGNEZHAD,07/01/1999,IRI,athlete,M,,"Sprints (400m or less)",11/01/2018,"4 years ineligibility",12/03/2022,Since 11-01-2018,No,Doping,"Presence,Use",Stanozolol,In competition test National indoor athletics championships Tehran IRN,  
  Veysi ASLAN,23/02/1984,TUR,athlete,M,,"Long Distance (3000m+)",09/10/2016,"8 years ineligibility (2nd",18/06/2025,From 09.10.16,No,Doping,"Presence,Use",EPO,"In competition, in    International Darica Half Marathon , Darica, TUR"
  Anouar ASSILA,01/01/1983,FRA,athlete,M,,"Long Distance(3000m+)",26/10/2014,"4 years ineligibility",18/09/2021,"On 26.10.14 and 20.11.16",No,Doping,Use,Athlete Biological Passport,Athlete Biological Passport Case
  Roman AVRAMENKO,23/03/1988,RUS,athlete,M,Javelin,Throws,30/07/2015,"8 years ineligibility (2nd",29/08/2023,Since 30.07.15,No,Doping,"Presence,Use","Dehydrochloromethyltestos terone","Out-of competition test, Kirovske"
@@ -40,55 +40,19 @@ Name,Date of Birth,Nationality,Role,Sex,Discipline 1,Discipline 2,Date of Infrac
  BAKER Sarkan,30/01/1983,IRQ,athlete,M,,"Long Distance (3000m+)",25/05/2018,"4 years ineligibility",11/12/2022,Since 25-05-18,No,Doping,"Presence,Use",Meldonium,"Out of competition, Baghdad, IRQ"
  Sergey BAKULIN,13/11/1986,RUS,athlete,M,Race Walk,"Long Distance (3000m+)",20/05/2018,"8 years ineligibility",02/04/2027,Since 20.05.18,No,Doping,"Presence,Use",Athlete Biological Passport,"IAAF Rule 32.2 (b) Athlete Biological Passport Case"
  Zivile BALCIUNAITE,03/04/1979,LTU,athlete,F,Road Running,"Long Distance (3000m+)",15/04/2016,"8 years ineligibility",13/05/2024,Since 15.4.16,No,Doping,"Presence,Use",Meldonium,"Out of competition test, Palanga LTU"
- Musaeb Abdulrahman BALLA,19/03/1989,QAT,athlete,M,,"Long Distance
-(3000m+)",20/06/2016,"4 years
-ineligibility",11/12/2020,,No,Doping,Possession,"Possession of a Prohibited
-Substance or a Prohibited",IAAF Rule 32.2. (f) - Possession
- Roberto BARBI,25/03/1965,ITA,athlete,M,Road Running,"Long Distance
-(3000m+)",20/07/2008,"8 years
-ineligibility",28/07/2047,Since 20.07.2008,No,Doping,"Presence,Use,
-Violation of","Ephedrine & EPO,
-Participation During","In competition test, Mezza Maratona
-Mende, FRA"
- Christian BARCHI,04/03/1989,ITA,athlete,M,,"Long Distance
-(3000m+)",03/03/2019,"4 years and 2
-months",17/06/2023,Since 03.03.19,No,Doping,"Presence,Use,
-Violation of","Clenbuterol, Exogenous
-Steroids after IRMS","In competition test, Granfondo Citta
-di Ancona, Ancona, ITA; Trail sacred"
- BARNES William,17/03/1994,PUR,athlete,M,,,15/06/2016,"4 years
-ineligibility",22/11/2020,Since 15/06/16,No,Doping,"Presence,Use",Boldenone,"Out of competition, Salinas, PUR"
- Alexey BARTSAYKIN,22/03/1989,RUS,athlete,M,Race Walk,"Long Distance
-(3000m+)",01/01/2012,"4 years
-ineligibility",03/07/2021,From 09.09.12,No,Doping,Use,Athlete Biological Passport,"IAAF rule 32.2.b - Use or Attempted
-Use by an Athlete of a Prohibited"
- Francesco Antonello BASSANO,21/07/1972,ITA,athlete,M,,"Long Distance
-(3000m+)",18/03/2017,"8 years
-ineligibility",02/05/2025,From 18.03.17,No,Doping,"Presence,Use,
-Violation of","Norandrosterone,
-Exogenous Steroids, EPO,","In competition test, Maratona La 6
-ore Della Reggia , Caserta, ITA"
- Said BELHARIZI,01/09/1974,FRA,athlete,M,,"Long Distance
-(3000m+)",23/10/2016,"4 years
-ineligibility",03/08/2020,Since 23.10.16,No,Doping,"Presence,Use",Cocaine,"In competition test, Marathon des
-Villages , Lege Cap Ferret, FRA"
- Kenta BELL,16/03/1977,AFG,"athlete
-support",M,,"Athlete Support
-Personnel",01/07/2015,Lifetime Ban,,NA,Yes,Doping,"Possession,Tr
-afficking,Admi","Administration, Trafficking,
-Possession and Complicity","Administration (IAAF Rule 32.2.h) -
-Trafficking (IAAF Rule 32.2.g),"
- Tatyana BELOBORODOVA (LYSENKO),,RUS,athlete,F,Hammer,Throws,,"8 years
-ineligibility",01/07/2024,"From 16.07.12 to
-02.07.16",No,Non-Doping,"Presence,Use","Dehydrochlormethyltestost
-erone; Use","(Retesting) In competition test, XXX
-Olympic Games, London, GBR;"
+ Musaeb Abdulrahman BALLA,19/03/1989,QAT,athlete,M,,"Long Distance (3000m+)",20/06/2016,"4 years ineligibility",11/12/2020,,No,Doping,Possession,Possession of a Prohibited Substance or a Prohibited,IAAF Rule 32.2. (f) - Possession,
+ Roberto BARBI,25/03/1965,ITA,athlete,M,Road Running,"Long Distance (3000m+)",20/07/2008,"8 years ineligibility",28/07/2047,Since 20.07.2008,No,Doping,"Presence,Use,Violation of","Ephedrine & EPO, Participation During",In competition test Mezza Maratona Mende FRA,
+Christian BARCHI,04/03/1989,ITA,athlete,M,,"Long Distance (3000m+)",03/03/2019,"4 years and 2 months",17/06/2023,Since 03.03.19,No,Doping,"Presence,Use,Violation of","Clenbuterol, Exogenous Steroids after IRMS",In competition test, Granfondo Citta di Ancona, Ancona, ITA,
+BARNES William,17/03/1994,PUR,athlete,M,,,15/06/2016,"4 years ineligibility",22/11/2020,Since 15/06/16,No,Doping,"Presence,Use",Boldenone,"Out of competition, Salinas, PUR" 
+Alexey BARTSAYKIN,22/03/1989,RUS,athlete,M,Race Walk,"Long Distance (3000m+)",01/01/2012,"4 years ineligibility",03/07/2021,From 09.09.12,No,Doping,Use,Athlete Biological Passport,"IAAF rule 32.2.b - Use or Attempted Use by an Athlete of a Prohibited"
+Francesco Antonello BASSANO,21/07/1972,ITA,athlete,M,,"Long Distance (3000m+)",18/03/2017,"8 years ineligibility",02/05/2025,From 18.03.17,No,Doping,"Presence,Use, Violation of","Norandrosterone,Exogenous Steroids, EPO,","In competition test, Maratona La 6 ore Della Reggia , Caserta, ITA"
+ Said BELHARIZI,01/09/1974,FRA,athlete,M,,"Long Distance (3000m+)",23/10/2016,"4 years ineligibility",03/08/2020,Since 23.10.16,No,Doping,"Presence,Use",Cocaine,"In competition test, Marathon des Villages , Lege Cap Ferret, FRA"
+ Kenta BELL,16/03/1977,AFG,"athlete support",M,,"Athlete Support Personnel",01/07/2015,Lifetime Ban,,NA,Yes,Doping,"Possession,Trafficking,Admi","Administration, Trafficking, Possession and Complicity","Administration (IAAF Rule 32.2.h) -Trafficking (IAAF Rule 32.2.g),"
+ Tatyana BELOBORODOVA (LYSENKO),,RUS,athlete,F,Hammer,Throws,,"8 years ineligibility",01/07/2024,"From 16.07.12 to 02.07.16",No,Non-Doping,"Presence,Use","Dehydrochlormethyltestosterone; Use","(Retesting) In competition test, XXX Olympic Games, London, GBR;"
  Yassine BENSGHIR,03/01/1983,MAR,athlete,M,1500m,"Middle Distance(800m-1500m)",07/06/2014,"4 years ineligibility",11/04/2020,Since 07.06.14,No,Doping,Use,Athlete Biological Passport,Athlete Biological Passport Case
  Anna BERGHII,19/02/1993,MDA,athlete,F,,"Sprints (400m or less)",03/02/2018,"4 years ineligibility",13/02/2022,Since 03.02.18,No,Doping,"Evasion,Refusal and or Failure",Refusal,IAAF Rule 32.2 (c) Refusal
  Brtukan Adeba BERIHUN,01/01/1984,ETH,athlete,F,Long Jump,Jumps,13/11/2016,8 years ineligibility plus,21/06/2029,Since 13.11.16,No,Doping,"Presence,Use, Evasion,Refusa","Exogenous Steroids, Prednisone & Prednisolone","In competition test,  Al Mouj Muscat Marathon , Muscat, OMA"
- Kipyegon BETT,01/02/1998,KEN,athlete,M,800m,"Middle Distance
-(800m-1500m)",24/02/2018,"4 years ineligibility",14/08/2022,Since 24.02.18,No,Doping,"Presence,Use, 
-Evasion,Refusa","Evading, Refusing or Failing to Submit to Sample","Out-of-competition test, Kericho, KEN"
+ Kipyegon BETT,01/02/1998,KEN,athlete,M,800m,"Middle Distance (800m-1500m)",24/02/2018,"4 years ineligibility",14/08/2022,Since 24.02.18,No,Doping,"Presence,Use, Evasion,Refusa","Evading, Refusing or Failing to Submit to Sample","Out-of-competition test, Kericho, KEN"
  Luisa BETTI,27/08/1987,ITA,athlete,F,,"Long Distance (3000m+)",06/10/2018,"18 months ineligibility",05/04/2020,Since 06.10.18,No,Doping,"Presence,Use",Betamethasone,"In competition test,  100km delle Alpi , Foglizzo, ITA" 
  Cody BIDLOW,08/11/1991,USA,athlete,M,100m,"Sprints (400m or less)",01/01/2013,"4 years ineligibility",08/08/2020,Since 01.01.13,No,Doping,"Use,Possessio n","Possession of a Prohibited Substance or a Prohibited","IAAF Rule 32.2. (f) - Possession; IAAF Rule 32.2. (b) - Use of a prohibited"
  BII Daniel Kipchirchir,11/10/1991,KEN,athlete,M,,Long Distance (3000m+),03/12/2017,4 years ineligibility,19/06/2022,Since 03-12-17,No,Doping,"Presence,Use",Norandrosterone,"In competition test, 'Jieyang International Half Marathon', Jieyang, CHN"
