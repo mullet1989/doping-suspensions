@@ -35,7 +35,7 @@ Name,Date of Birth,Nationality,Role,Sex,Discipline 1,Discipline 2,Date of Infrac
  Roman AVRAMENKO,23/03/1988,RUS,athlete,M,Javelin,Throws,30/07/2015,"8 years ineligibility (2nd",29/08/2023,Since 30.07.15,No,Doping,"Presence,Use","Dehydrochloromethyltestos terone","Out-of competition test, Kirovske"
  Mazlum AYDEMIR,19/07/1983,TUR,athlete,M,,"Long Distance (3000m+)",29/08/2015,"A life-time ineligibility",,"Since 29-08-2015 to 20-02-17",Yes,Doping,"Presence,Use",Erythropoietin,"In competition test, track & field 1st league final , Cankiri, TUR & '60th"
  Surreya AYHAN-KOP,06/09/1978,TUR,athlete,F,1500m,"Middle Distance (800m-1500m)",08/09/2007,"Lifetime ban (2nd ADRV)",,Since 08-09-07,Yes,Doping,"Presence,Use",Stanozolol,Out of competition
- Henry AZIKE,07/01/1989,NGR,athlete,M,100m,"Sprints (400m or less)",05/12/2012,"Lifetime ban (2nd ADRV)",,Since 05-12-12,Yes,Doping,"Presence,Use",Metenolone,"Out of competition test, Lagos, NGR" 
+ Henry AZIKE,07/01/1989,NGR,athlete,M,100m,Sprints 400m or less,05/12/2012,Lifetime ban 2nd ADRV,,Since 05-12-12,Yes,Doping,"Presence,Use",Metenolone,Out of competition test Lagos NGR
  Jalili BAHRAM,18/06/1994,SWE,athlete,M,,Combined Events,19/10/2017,"2 years ineligibility",19/03/2020,Since 19-10-17,No,Doping,"Presence,Use",Androstadiene,"Out-of-competition test, Stockholm,SWE"
  BAKER Sarkan,30/01/1983,IRQ,athlete,M,,"Long Distance (3000m+)",25/05/2018,"4 years ineligibility",11/12/2022,Since 25-05-18,No,Doping,"Presence,Use",Meldonium,"Out of competition, Baghdad, IRQ"
  Sergey BAKULIN,13/11/1986,RUS,athlete,M,Race Walk,"Long Distance (3000m+)",20/05/2018,"8 years ineligibility",02/04/2027,Since 20.05.18,No,Doping,"Presence,Use",Athlete Biological Passport,"IAAF Rule 32.2 (b) Athlete Biological Passport Case"
@@ -1878,3 +1878,4 @@ Yevhen Vynohradov,,UKR,Athlete,,Hammer throw,,2009,2 years,,,No,Doping,,Nandrolo
 Yohan Blake,26-Dec-89,JAM,Athlete,M,Sprinting,,2009,3 months,,,No,Doping,,4-Methyl-2-hexanamine,
 Rashid Ramzi,,BRN,Athlete,,Middle distance,,2008{Re-analysed in 2009),2 years,,,No,Doping,,CERA,
 Vanja Perisic,,Cro,Athlete,,Middle distance,,2008(Sample re-analysed 2009),2 years,,,No,Doping,,CERA,
+Luke Traynor,06-Jul-93,GBR,Athlete,M,Long Distance,XC,27/05/2019,2 years,26/05/2021,27/05/2019,No,Doping,,Cocaine,In Competition test
