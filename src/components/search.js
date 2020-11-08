@@ -5,7 +5,6 @@ import Toggle from "./active-toggle";
 import { violations } from "../routes/Main";
 
 const Search = ({ setViolations }) => {
-
   let [query, setQuery] = useState("");
   let [active, setActive] = useState(false);
 
@@ -15,34 +14,32 @@ const Search = ({ setViolations }) => {
     location: 0,
     distance: 100,
     minMatchCharLength: 1,
-    keys: [
-      "Name",
-    ],
+    keys: ["Name"],
   };
 
   useEffect(() => {
     performSearch(violations, query)
-      .then(violations => onActiveToggle(violations, active))
-      .then(violations => setViolations(violations));
+      .then((violations) => onActiveToggle(violations, active))
+      .then((violations) => setViolations(violations));
   }, [query, active]);
 
   const performSearch = (violations, query) => {
-    return new Promise(resolve => {
+    return new Promise((resolve) => {
       if (query === "") {
         return resolve(violations);
       }
 
       let fuse = new Fuse(violations, options); // "list" is the item array
       let result = fuse.search(query);
-      resolve(result.map(x => x.item));
+      resolve(result.map((x) => x.item));
     });
   };
 
   const onActiveToggle = (violations, active) => {
-    return new Promise(resolve => {
+    return new Promise((resolve) => {
       if (active) {
         const today = moment();
-        const activeSuspensions = violations.filter(x => {
+        const activeSuspensions = violations.filter((x) => {
           const until = moment(x["Ineligibility until"], "DD/MM/YYYY");
           return until.isAfter(today);
         });
@@ -55,23 +52,37 @@ const Search = ({ setViolations }) => {
   return (
     <form>
       <fieldset>
-        <h1>
-          Search for violations
-        </h1>
-        <div style={{
-          padding: "10px",
-          marginBottom: "2rem",
-          borderLeft: ".3rem solid #49d79f",
-          backgroundColor: "#f4f5f6",
-        }}>
-          <span>Type the first name of the athlete you want to check</span>
+        <p style={{ marginBottom: "2px" }}>
+          <small>
+            This website is designed to enable race directors and sponsors a
+            quick and easy solution to protect their brand. By providing the
+            only free and most comprehensive list of current and former banned
+            competitors, we can help you to help keep athletics clean.
+          </small>
+        </p>
+        <h1 style={{ marginBottom: "2px" }}>Search for violations</h1>
+        <div
+          style={{
+            padding: "10px",
+            marginBottom: "2rem",
+            borderLeft: ".3rem solid #49d79f",
+            backgroundColor: "#f4f5f6",
+          }}
+        >
+          <span>
+            Type the first or last name of the athlete you want to check
+          </span>
         </div>
-        <input style={{ fontSize: "1.5rem" }} type="text" id="search"
-               onKeyPress={(e) => {
-                 e.key === "Enter" && e.preventDefault();
-               }}
-               onChange={event => setQuery(event.target.value)} />
-        <Toggle onCheck={e => setActive(!active)} />
+        <input
+          style={{ fontSize: "1.5rem" }}
+          type="text"
+          id="search"
+          onKeyPress={(e) => {
+            e.key === "Enter" && e.preventDefault();
+          }}
+          onChange={(event) => setQuery(event.target.value)}
+        />
+        <Toggle onCheck={(e) => setActive(!active)} />
       </fieldset>
     </form>
   );
